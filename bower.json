@@ -1,0 +1,17 @@
+{
+  "name": "techno-logic",
+  "description": "A starter project for AngularJS",
+  "main": "",
+  "authors": [
+    "Ethen <peacefulconsciousforall@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
