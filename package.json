@@ -19,7 +19,7 @@
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install",
     "update-deps": "npm update",
-    "postupdate-deps": "bower update",
+    "postupdate-deps": "./node_modules/.bin/bower update",
     "prestart": "npm install",
     "start": "http-server -a localhost -p 8000 -c-1 ./app",
     "pretest": "npm install",
